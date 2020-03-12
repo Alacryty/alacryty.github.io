@@ -2,12 +2,10 @@
 title: Alacryty Global Solutions
 email: info@alacryty.com
 description: |
-  Alacryty is a software company that provides global solutions.
-  We are fucking awesome!
-  Hire us!
+  Innovative solutions to the unique challenges of the global financial network.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site e.g. http://yvesespinosa.com
-download_button_url: ""
+download_button_url: "mailto:info@alacryty.com"
 
 # Social settings
 500px_url:
